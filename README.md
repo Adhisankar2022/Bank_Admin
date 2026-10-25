@@ -153,4 +153,4 @@ Separate classes handle individual operations:
 
 ## 📄 License
 
-This project is available for educational and learning purposes. Add a license file if you intend to distribute it under a specific open-source license.
+This project is available for educational and learning purposes.
