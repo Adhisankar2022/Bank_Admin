@@ -142,9 +142,9 @@ Separate classes handle individual operations:
 - Enhanced security and password management
 
 ## 👨‍💻 Author
--Adhi Sankar A
--Aleena Afsal
--Alfio Shaji
+- Adhi Sankar A
+- Aleena Afsal
+- Alfio Shaji
 
 **Project:** Sky Bank Limited — Bank Management System  
 **Language:** Java  
